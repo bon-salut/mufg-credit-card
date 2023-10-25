@@ -1,2 +1,1 @@
-# smbc-credit-card
-MUFG Data Science Champion Ship 2023
+## MUFG Data Science Champion Ship 2023
